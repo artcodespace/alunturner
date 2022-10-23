@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on making this readme look nice...I haven't got very far as you can see. This will actually be a portfolio at somepoint in the future.
+- 🔭 I’m currently working on making this readme look nice...I haven't got very far as you can see. This will actually be a portfolio at some point in the future.
 - 🌱 [I’m currently learning](https://frontendmasters.com/u/alunTurner/): ...React and Typescript - Steve Kinney (Frontend Masters)
   -  (recently finished)
   -  TS Fundamentals V3, Intermediate TS, Making TS stick - Mike North is the man (Frontend Masters)
