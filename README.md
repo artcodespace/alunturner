@@ -12,7 +12,7 @@ Now a trainee Rustacean (prawn?)
   -  Testing JS - Kent C Dodds
   -  Epic React - Kent C Dodds
   -  Interaction Design For Usability - Interaction Design Foundation
-- 📖 I'm currently reading: ...The Rust book (Chapter 6), Rust by Example (Chapter 10)
+- 📖 I'm currently reading: ...The Rust book (Chapter 7), Rust by Example (Chapter 11)
   - (recently finished)
   - Eloquent JavaScript
   - YDKJSY Vol 2
