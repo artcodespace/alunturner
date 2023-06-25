@@ -21,8 +21,8 @@
       - Deep JavaScript Foundations, v3 
     - Other
       - Webpack Fundamentals
-  -  _Interaction Design Foundation_
-    -  Interaction Design For Usability
+  - _Interaction Design Foundation_
+    - Interaction Design For Usability
 
 ### 📖 I'm reading:
 - **Ongoing**:
