@@ -22,7 +22,7 @@
       - Other
         - Webpack Fundamentals
     -  _Interaction Design Foundation_
-      -  Interaction Design For Usability
+      - Interaction Design For Usability
 
 - 📖 I'm reading:
   - **Ongoing**:
