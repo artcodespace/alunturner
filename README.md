@@ -4,9 +4,9 @@
 ### 🌱 [I’m learning (this links to my Frontend Masters profile)](https://frontendmasters.com/u/alunTurner/):
 #### Ongoing :
 - CSS for JavaScript Developers (_Josh W Comeau_)
-- Rust for TypeScript Developers
 #### Completed (Frontend Masters courses unless otherwise annotated)
 - _Rust_
+  - Rust for TypeScript Developers
   - The Rust Programming Language
 - _TS_
   - React and Typescript
