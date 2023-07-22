@@ -1,6 +1,3 @@
-## Hi there 👋
-🔭 I’m currently working on making this readme look nice...I haven't got very far as you can see. This will actually be a portfolio at some point in the future.
-
 ### 🌱 [I’m learning (this links to my Frontend Masters profile)](https://frontendmasters.com/u/alunTurner/):
 #### Ongoing :
 - CSS for JavaScript Developers (_Josh W Comeau_)
