@@ -1,6 +1,7 @@
 ### 🌱 [I’m learning (this links to my Frontend Masters profile)](https://frontendmasters.com/u/alunTurner/):
 #### Ongoing :
 - CSS for JavaScript Developers (_Josh W Comeau_)
+- Full Stack for Front-End Engineers, v3
 #### Completed (Frontend Masters courses unless otherwise annotated)
 - _Rust_
   - Rust for TypeScript Developers
@@ -11,11 +12,13 @@
   - Intermediate TS
   - TS Fundamentals V3
 - _JS_
+  - The Hard Parts of Object Oriented JavaScript
   - JavaScript: The Hard Parts, v2
   - Deep JavaScript Foundations, v3
   - Epic React (_Kent C Dodds_)
   - Testing JS (_Kent C Dodds_)
 - _Other_
+  - Introduction to Bash, VIM & Regex
   - Webpack Fundamentals
   - Interaction Design For Usability (_Interaction Design Foundation_)
 
@@ -25,6 +28,6 @@
 #### Completed:
 - _JS_
   - Eloquent JavaScript (_Marijn Haverbeke_)
-  - YDKJSY Vol 2 (_Kyle Simpson_)
-  - YDKJSY Vol 1 (_Kyle Simpson_)
+  - YDKJSY Vol 2: Scope & Closures (_Kyle Simpson_)
+  - YDKJSY Vol 1: Get Started (_Kyle Simpson_)
 
