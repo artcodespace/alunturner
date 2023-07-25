@@ -1,3 +1,5 @@
+### 📁 [Current CV](https://github.com/alunturner/coding/blob/main/Alun_Turner_CV_6.0.pdf) 
+
 ### 🌱 [I’m learning (this links to my Frontend Masters profile)](https://frontendmasters.com/u/alunTurner/):
 #### Ongoing :
 - CSS for JavaScript Developers (_Josh W Comeau_)
