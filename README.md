@@ -1,4 +1,6 @@
-### 🌱 [I’m learning (this links to my Frontend Masters profile)](https://frontendmasters.com/u/alunTurner/):
+### 📁 [Current CV](https://github.com/alunturner/cv/blob/main/Alun_Turner_CV_6.0.pdf)
+
+### 🌱 [I’m learning (Frontend Masters profile)](https://frontendmasters.com/u/alunTurner/):
 #### Ongoing :
 - CSS for JavaScript Developers (_Josh W Comeau_)
 - Full Stack for Front-End Engineers, v3
