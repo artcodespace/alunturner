@@ -22,6 +22,7 @@
   - Epic React (_Kent C Dodds_)
   - Testing JS (_Kent C Dodds_)
 - _Other_
+  - Vim Fundamentals 
   - Complete Intro to Computer Science
   - Introduction to Bash, VIM & Regex
   - Webpack Fundamentals
