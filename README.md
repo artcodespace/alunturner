@@ -1,3 +1,3 @@
-### 🔗 [LinkedIn:](https://www.linkedin.com/in/alunturner/)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/alunturner/)
 
-### 👨🏻‍🎨 [Frontend Masters:](https://frontendmasters.com/u/alunTurner/)
+### 👨🏻‍🎨 [Frontend Masters](https://frontendmasters.com/u/alunTurner/)
