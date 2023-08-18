@@ -5,5 +5,9 @@
 </div>
 
 <hr />
- 
- I'm a developer that works in TS/JS and Rust. I'm also good with HTML, CSS and testing. I'm currently enjoying writing that code inside Neovim and trying to figure out how to make it into my perfect editor, picking up some Lua along yhe way.
+
+ I'm a developer that works in TS/JS and Rust. I'm also good with HTML, CSS and testing. I'm currently enjoying writing that code inside Neovim and trying to figure out how to make it into my perfect editor, picking up some Lua along the way.
+
+<hr />
+
+![](./profile-3d-contrib/profile-green.svg)
