@@ -11,3 +11,5 @@ I work in TS/JS and Rust. I'm also good with HTML, CSS and testing. Currently _r
 <hr />
 
 ![](./profile-3d-contrib/profile-green.svg)
+
+(Credit to user yoshi389111 for the great graph above)
