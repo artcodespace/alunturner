@@ -1,3 +1,5 @@
-### 🔗 [LinkedIn](https://www.linkedin.com/in/alunturner/)
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello! I'm Alun</h3>
+<a align="center" href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-### 👨🏻‍🎨 [Frontend Masters](https://frontendmasters.com/u/alunTurner/)
+ I'm a developer that works in TS/JS and Rust. I'm also good with HTML, CSS and testing. I'm currently enjoying writing that code inside Neovim and trying to figure out how to make it into my perfect editor, picking up some Lua along yhe way.
